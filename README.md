@@ -21,7 +21,5 @@ It also has a registration system and a login system to manage access to the pan
 - Microsoft SQL Server MS 18
 
 
-#### **- DASHBOARD**
 
-[![Dashboard.png](https://i.postimg.cc/g0LT5M1G/Dashboard.png)](https://postimg.cc/rdcjR98H)
 
